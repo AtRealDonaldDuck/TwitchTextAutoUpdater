@@ -1,0 +1,5 @@
+C:\Users\A\source\repos\Twitch_AutoTextTimer\Twitch_AutoTextTimer\bin\Release\net6.0\publish\Twitch_AutoTextTimer.exe
+C:\Users\A\source\repos\Twitch_AutoTextTimer\Twitch_AutoTextTimer\bin\Release\net6.0\publish\Twitch_AutoTextTimer.dll
+C:\Users\A\source\repos\Twitch_AutoTextTimer\Twitch_AutoTextTimer\bin\Release\net6.0\publish\Twitch_AutoTextTimer.deps.json
+C:\Users\A\source\repos\Twitch_AutoTextTimer\Twitch_AutoTextTimer\bin\Release\net6.0\publish\Twitch_AutoTextTimer.runtimeconfig.json
+C:\Users\A\source\repos\Twitch_AutoTextTimer\Twitch_AutoTextTimer\bin\Release\net6.0\publish\Twitch_AutoTextTimer.pdb

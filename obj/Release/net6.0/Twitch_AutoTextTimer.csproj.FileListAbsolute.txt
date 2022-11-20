@@ -1,0 +1,15 @@
+C:\Users\A\source\repos\Twitch_AutoTextTimer\Twitch_AutoTextTimer\bin\Release\net6.0\Twitch_AutoTextTimer.exe
+C:\Users\A\source\repos\Twitch_AutoTextTimer\Twitch_AutoTextTimer\bin\Release\net6.0\Twitch_AutoTextTimer.deps.json
+C:\Users\A\source\repos\Twitch_AutoTextTimer\Twitch_AutoTextTimer\bin\Release\net6.0\Twitch_AutoTextTimer.runtimeconfig.json
+C:\Users\A\source\repos\Twitch_AutoTextTimer\Twitch_AutoTextTimer\bin\Release\net6.0\Twitch_AutoTextTimer.dll
+C:\Users\A\source\repos\Twitch_AutoTextTimer\Twitch_AutoTextTimer\bin\Release\net6.0\Twitch_AutoTextTimer.pdb
+C:\Users\A\source\repos\Twitch_AutoTextTimer\Twitch_AutoTextTimer\obj\Release\net6.0\Twitch_AutoTextTimer.csproj.AssemblyReference.cache
+C:\Users\A\source\repos\Twitch_AutoTextTimer\Twitch_AutoTextTimer\obj\Release\net6.0\Twitch_AutoTextTimer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A\source\repos\Twitch_AutoTextTimer\Twitch_AutoTextTimer\obj\Release\net6.0\Twitch_AutoTextTimer.AssemblyInfoInputs.cache
+C:\Users\A\source\repos\Twitch_AutoTextTimer\Twitch_AutoTextTimer\obj\Release\net6.0\Twitch_AutoTextTimer.AssemblyInfo.cs
+C:\Users\A\source\repos\Twitch_AutoTextTimer\Twitch_AutoTextTimer\obj\Release\net6.0\Twitch_AutoTextTimer.csproj.CoreCompileInputs.cache
+C:\Users\A\source\repos\Twitch_AutoTextTimer\Twitch_AutoTextTimer\obj\Release\net6.0\Twitch_AutoTextTimer.dll
+C:\Users\A\source\repos\Twitch_AutoTextTimer\Twitch_AutoTextTimer\obj\Release\net6.0\refint\Twitch_AutoTextTimer.dll
+C:\Users\A\source\repos\Twitch_AutoTextTimer\Twitch_AutoTextTimer\obj\Release\net6.0\Twitch_AutoTextTimer.pdb
+C:\Users\A\source\repos\Twitch_AutoTextTimer\Twitch_AutoTextTimer\obj\Release\net6.0\Twitch_AutoTextTimer.genruntimeconfig.cache
+C:\Users\A\source\repos\Twitch_AutoTextTimer\Twitch_AutoTextTimer\obj\Release\net6.0\ref\Twitch_AutoTextTimer.dll
